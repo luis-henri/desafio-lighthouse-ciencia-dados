@@ -1,0 +1,5 @@
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
